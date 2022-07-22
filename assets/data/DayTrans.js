@@ -1,0 +1,54 @@
+const DayTrans = [
+    {
+        Did:'09-06-2022',
+        totaltrans:4,
+        totalAmount:100,
+    },
+    {
+        Did:'10-06-2022',
+        totaltrans:3,
+        totalAmount:100,
+    },
+    {
+        Did:'11-06-2022',
+        totaltrans:3,
+        totalAmount:100,
+    },
+    {
+        Did:'12-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+    {
+        Did:'13-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+    {
+        Did:'15-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+    {
+        Did:'16-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+    {
+        Did:'17-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+    {
+        Did:'18-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+    {
+        Did:'19-06-2022',
+        totaltrans:2,
+        totalAmount:100,
+    },
+]
+
+export default DayTrans
